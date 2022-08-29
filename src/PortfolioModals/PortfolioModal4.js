@@ -24,7 +24,7 @@ export function Modal4() {
                 </li>
               </ul>
               <Link to="/">
-                <button className="btn btn-success btn-l text-uppercase mt-3" type="button">
+                <button className="btn btn-success btn-l text-uppercase mt-5" type="button">
                   Close Project
                 </button>
               </Link>

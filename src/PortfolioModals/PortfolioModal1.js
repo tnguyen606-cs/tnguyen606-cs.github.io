@@ -4,7 +4,7 @@ import adobe from '../img/adobe.jpg';
 
 export function Modal1() {
   return (
-    <div className="modal-content modal-background">
+    <div className="modal-fullscreen modal-background">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-8">
@@ -14,7 +14,7 @@ export function Modal1() {
               <p className="item-intro text-muted">Summer Internship 2022</p>
               <img className="d-block mx-auto" width="250" height="350" src={ adobe } alt="..." />
               <h3 className="h4 mb-4 mt-5">Responsibilities</h3>
-              <ul className="list-inline-item">
+              <ul className="list-inline-item mb-4">
                 <li>
                   Performed daily coding skills such as TypeScript/JavaScript with one general responsibility is to ensure that the users can easily interact with Marketo website's appearance. 
                 </li>
@@ -29,7 +29,7 @@ export function Modal1() {
                 </li>
               </ul>
               <Link className="col-r" to="/">
-                <button className="btn btn-success btn-l text-uppercase mt-3" type="button">
+                <button className="btn btn-success btn-l text-uppercase mt-6" type="button">
                 Close Project
                 </button>
               </Link>
@@ -37,7 +37,7 @@ export function Modal1() {
                 target="_blank"
                 rel="noopener"
                 className="col-r">
-                <button className="btn btn-primary btn-l text-uppercase mt-3" type="button">
+                <button className="btn btn-primary btn-l text-uppercase mt-6" type="button">
                   Project Demo
                 </button>
               </a>

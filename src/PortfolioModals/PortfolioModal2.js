@@ -4,7 +4,7 @@ import citi from '../img/cachedImage.jpg';
 
 export function Modal2() {
   return (
-    <div className="modal-content modal-background">
+    <div className="modal-fullscreen modal-background">
       <div className="container">
         <div className="row justify-content-center">
           <div className="col-lg-8">
@@ -12,7 +12,7 @@ export function Modal2() {
               {/* <!-- Project details--> */}
               <h2 className="text-uppercase">Citi Internship</h2>
               <p className="item-intro text-muted">Summer Internship 2021</p>
-              <img className="d-block mx-auto" width="350" height="300" src={ citi } alt="..." />
+              <img className="d-block mx-auto" width="450" height="350" src={ citi } alt="..." />
               <h3 className="h4 mb-4 mt-5">Responsibilities</h3>
               <ul className="list-inline-item">
                 <li>
@@ -26,7 +26,7 @@ export function Modal2() {
                 </li>
               </ul>
               <Link to="/">
-                <button className="btn btn-success btn-l text-uppercase mt-3" type="button">
+                <button className="btn btn-success btn-l text-uppercase mt-5" type="button">
                   Close Project
                 </button>
               </Link>
