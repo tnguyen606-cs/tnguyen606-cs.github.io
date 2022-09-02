@@ -20,13 +20,13 @@ export function Modal3() {
                 <h3 className="h4 mb-4 mt-5">Responsibilities</h3>
                 <ul className="list-inline-item">
                   <li>
-                    Working in a team of 4 to build an Android mobile app.
+                    Working in a team of 4 teammates to build an Android mobile app.
                   </li>
                   <li>
-                    I'm mainly working as a back-end teammate who is in charge of creating an algorithm that is able to generate a “bump plan”, which redistributes displaced personnel and cargo to other flights in order to ensure that each ends up in its correct destination.
+                    Creating an algorithm that is able to generate a “bump plan”, which redistributes displaced personnel and cargo to other flights in order to ensure that each ends up in its correct destination.
                   </li>
                   <li>
-                    Programming language used: Java.
+                    Using Java, ReactJS, Agile and data structure & algorithm knowledge to implement a ‘bump plan’ action in case of a bump.
                   </li>
                 </ul>
                 <Link to="/">
