@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47aa5874.css",
+    "main.js": "/static/js/main.54a70037.js",
+    "static/media/adobe.jpg": "/static/media/adobe.7265cdf9c805817d1540.jpg",
+    "static/media/silicon_valley.jpg": "/static/media/silicon_valley.7b5d3b281670a8d262a0.jpg",
+    "static/media/cachedImage.jpg": "/static/media/cachedImage.d1786da7613190ab9d5d.jpg",
+    "static/media/team.jpg": "/static/media/team.e934851cc96a5f3013d8.jpg",
+    "static/media/programming.jpg": "/static/media/programming.e751fcc91e24f1dbf02d.jpg",
+    "index.html": "/index.html",
+    "main.47aa5874.css.map": "/static/css/main.47aa5874.css.map",
+    "main.54a70037.js.map": "/static/js/main.54a70037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47aa5874.css",
+    "static/js/main.54a70037.js"
+  ]
+}
