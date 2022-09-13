@@ -20,13 +20,13 @@ export function Modal3() {
                 <h3 className="h4 mb-4 mt-5">Responsibilities</h3>
                 <ul className="list-inline-item">
                   <li>
-                    Working in a team of 4 teammates to build an Android mobile app.
+                    Working in a team of 4 teammates to build an Android mobile app for Airborne Operation Contingency Optimization of the US Army.
                   </li>
                   <li>
-                    Creating an algorithm that is able to generate a “bump plan”, which redistributes displaced personnel and cargo to other flights in order to ensure that each ends up in its correct destination.
+                    Being in charge of implementing the interactive pages using Android Studio and Java.
                   </li>
                   <li>
-                    Using Java, ReactJS, Agile and data structure & algorithm knowledge to implement a ‘bump plan’ action in case of a bump.
+                    Using Java and data structure & algorithm knowledge to implement a ‘bump plan’ action in case of a bump.
                   </li>
                 </ul>
                 <Link to="/">

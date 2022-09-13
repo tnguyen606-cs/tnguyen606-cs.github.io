@@ -104,7 +104,7 @@ function App() {
               <h2 className="mt-0">CONTACT</h2>
               <hr className="divider" />
               <i className="bi-envelope fs-2 mb-3 text-muted"></i>
-              <div>tnguyen606@gatech.edu</div>
+              <div>kristynguyen2326@gmail.com</div>
               <i className="bi-phone fs-2 mb-3 text-muted"></i>
               <div>+1 (404) 883-7474</div>
               <a className="App-link"
